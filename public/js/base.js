@@ -16,8 +16,8 @@ let pessoas= [
         Profissão:"soldado",
     }
 ]
-function adicionarpessoadocaralho (caralho){
-    pessoas.push(caralho);
+function adicionarpessoadocaralho (){
+    pessoas.push();
 }
 
 
